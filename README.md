@@ -1,4 +1,4 @@
-# python-QRcode-gui
+# Python QR Code GUI
 
 Python dili ile QR Kod oluşturma uygulaması kodladım.
 YouTube kanalımdan izleyebilir abone olup beğenirseniz çok sevinirim. 
